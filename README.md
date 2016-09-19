@@ -118,6 +118,8 @@ Existing work and product
 ### d. User observations
 These are the results of our thorough research and observation inside one of Malaysia's biggest shopping mall, the **Sunway Pyramid**. 50 people have participate in the survey.
 
+![alt tag](http://i64.tinypic.com/2qlsnis.jpg)
+
 1. Potential users
 
    Shoppers
