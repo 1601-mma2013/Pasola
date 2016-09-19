@@ -56,22 +56,52 @@
 > - Presentation
 
 ### b. Audit
+Existing work and product
 
-1. competitors / alternatives / replacement
+1. Field (market) research
 
-   - Google Maps (Indoor Maps)
+   In the past few years, a great amount of interest has been shown to develop indoor navigation systems for the common user. The needs to have a navigation system inside a building is starting to become a thing since buildings are getting bigger and bigger. Some companies use this as a way to market their buildings and some simply just don't want their visitors to get lost inside their buildings.
 
-     Using the Google Places API for Android, you can build location-aware apps that respond contextually to the local businesses and other places near the device. This means that you can build rich apps based on places that mean something to the user, to complement the straightforward geographic-based services offered by the [Android location services](https://developer.android.com/training/location/index.html).
+   ​
 
-     A *place* is defined as a physical space that has a name. Another way of thinking about a place is that it's anything you can find on a map. Examples include local businesses, points of interest, and geographic locations. In the API, a place is represented by the [place](https://developer.android.com/reference/com/google/android/gms/location/places/Place.html) interface. It includes information such as the name of the place and its address, geographical location, place ID, phone number, place type, website URL, and more.
+2. Competitors / Alternatives / Replacement
 
-   - [Major Player In Augmented Realities](https://www.fastcompany.com/3052209/tech-forecast/vr-and-augmented-reality-will-soon-be-worth-150-billion-here-are-the-major-pla)
+   - **Indoor Google Maps** - https://www.google.com/maps/about/partners/indoormaps/
 
-2. Relevant technologies:
+     *Pros*
 
-   - *Augmented Reality*
-   - *GPS-based Geographical Navigation*
-   - *Wi-Fi Positioning System*
+     - Excellent search capabilities - Very intuitive!
+     - Visually appealing maps.
+     - The service is available free of charge
+
+     *Cons*
+
+     - No aerial photos
+
+   - **MazeMap** - https://www.mazemap.com/
+
+     *Pros*
+
+     - Complete search-find-navigate solution for all indoor locations that supports MazeMap
+     - Quick searching with search suggestions
+
+     *Cons*
+
+     - ​No aerial photos
+
+
+
+3. Relevant Technologies 
+
+   - QR code
+   - GPS-based Geographical Navigation
+   - Wi-Fi Positioning System
+   - Inertial sensors
+   - Monocular camera
+
+
+
+
 
 ### c. Stakeholder Interviews (internal / external)
 
