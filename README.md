@@ -1,3 +1,8 @@
+## Group Members
+- Hazmi Bin Halid 1132702612
+- Mohammad Haziq Shariff Bin Mohamed Hanif 1132702039
+- Mohamad Shafiq Faisal Bin Mohamad Najib 1132701768
+
 # **Odigós** - *Augmented Reality Indoor Navigation & Directory*
 
 # I. Analysis
