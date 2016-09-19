@@ -14,20 +14,9 @@
 1. Objectives
    - To create a guidance system inside a shopping mall.
 
-   ​
 
-> **How Odigós works:**
->
-> > 1. Users can download the Odigós application for free on the Google Play Store or Apple App Store.
-> > 2. Then, users can check which shopping mall supports the Odigós app.
-> > 3. When users arrived at a selected shopping mall, the app will notify the users that they're in Odigós territory.
-> > 4. Users can now tap on their desired amenities inside the shopping mall (e.g. toilet, shops, ATM, security center)
-> > 5. After users have selected their preferred destination, the app will then use the user's smartphone camera to display an arrow on the screen indicating towards the destination.
-> > 6. Now all the users have to do is to follow the direction given by the app on their smartphone's screen and walk to their designated destination.
 
-   ​
-
-1. Timelines
+2. Timelines
 
 > *Week 10* 
 >
