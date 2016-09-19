@@ -7,7 +7,7 @@
 ### a. Scope
 
 1. Objectives
-   - Creating a more convenient and enjoyable shopping experience where users can navigate inside a shopping mall at no cost.
+   - To create a guidance system inside a shopping mall.
 
    ​
 
