@@ -93,39 +93,27 @@ Existing work and product
 
 
 ### c. Stakeholder Interviews (internal / external)
+1. Project vision 
 
+   We intend to provide our users with the best navigation app inside a shopping mall.
 
+2. Risk
 
-1. Project vision:
-
-   - To see shopping malls all around the world to use **Odigós** (Augmented Reality Indoor Navigation & Directory) inside their building.
-
-2. Risk: 
-
-   - Getting false information from irresponsible users
    - Risk of having multiple bugs within the app
-   - Leaked information
-
-   ​
+   - Security breach
 
 3. Obstacles
-
-   - External threats like other companies who will try to copies **Odigós** features.
+   - Getting correct information from users so that the app can update the shopping mall's map.
 
 4. constraints 
-
-   - Internal limitations
-
-   > - Viable technologies
-   > - The project requires the use of Wi-Fi positioning system and GPS-based Geographical Navigation which are quite cheap but the cost to develop **Odigós** will need experience programmers and the cost of it will be expensive
+   - The project requires the use of Wi-Fi positioning system and GPS-based Geographical Navigation to develop **Odigós** and this will also need experience programmers and the cost of it will be expensive.
 
 5. opportunities 
 
-   1. **In spite of** the obstacles we have, this project has strength from 
+   In spite of the obstacles we have, this project has strength from
 
-      > - Frequent maintenance of the application so that it can be as smooth as possible and free from bugs 
-      > - High security to avoid data leak
-      > - Always try to listen and adapt on users feedback and false information report
+   - High security to avoid data leak.
+   - Frequent maintenance of the app so that it can be smooth as possible and free from bugs.
 
 ### d. User observations
 These are the results of our thorough research and observation inside one of Malaysia's biggest shopping mall, the **Sunway Pyramid**. 50 people have participate in the survey.
