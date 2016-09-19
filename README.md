@@ -140,7 +140,7 @@ These are the results of our thorough research and observation inside one of Mal
 
    1. Behaviors
 
-       ![Survey 1](C:\Users\Haziq\Desktop\Survey 1.jpg)
+       ![alt tag](http://i65.tinypic.com/2gtb7gz.jpg)
 
       Based on the survey, we categorized shoppers into two groups and ask them on which one is their behavior when visiting the shopping mall:
 
