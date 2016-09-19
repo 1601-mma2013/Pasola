@@ -120,7 +120,7 @@ These are the results of our thorough research and observation inside one of Mal
 
 1. Potential users
 
-   Shoppers and Customers
+   Shoppers
 
    ------
 
