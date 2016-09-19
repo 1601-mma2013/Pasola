@@ -105,10 +105,10 @@ Existing work and product
 3. Obstacles
    - Getting correct information from users so that the app can update the shopping mall's map.
 
-4. constraints 
+4. Constraints 
    - The project requires the use of Wi-Fi positioning system and GPS-based Geographical Navigation to develop **Odigós** and this will also need experience programmers and the cost of it will be expensive.
 
-5. opportunities 
+5. Opportunities 
 
    In spite of the obstacles we have, this project has strength from
 
