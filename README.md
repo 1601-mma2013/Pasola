@@ -128,14 +128,24 @@ Existing work and product
       > - Always try to listen and adapt on users feedback and false information report
 
 ### d. User observations
+These are the results of our thorough research and observation inside one of Malaysia's biggest shopping mall, the **Sunway Pyramid**. 50 people have participate in the survey.
 
-1. Potential user: *Shoppers*
-2. (user’s) behaviors: *Users who are in a hurry to get their shopping materials and on tight schedule* 
-3. (user’s) attitudes: *Needs instant results*
-4. (user’s) aptitudes: *The easy navigation of the application can be easily understood by users*
-5. (user’s) environments: *Shopping malls*
-6. (user’s) tools: *Smartphones & Tablets*
-7. (user’s) challenges: *Hard time finding directions, following standard signage which is hard to understand and inaccurate* 
+1. Potential users
+
+   Shoppers and Customers
+
+   ------
+
+   **Shoppers** 
+
+   1. Behaviors
+
+       ![Survey 1](C:\Users\Haziq\Desktop\Survey 1.jpg)
+
+      Based on the survey, we categorized shoppers into two groups and ask them on which one is their behavior when visiting the shopping mall:
+
+      * The Lingerer - These shoppers prefer to take their time roaming inside a shopping mall walking through random shops and look for any interesting things to spend their money on.
+      * The Straight Forward - These shoppers are the direct opposite of The Lingerer. They've already planned on what to get even before entering the shopping mall. Once they've arrived at the mall, they straight up search for their desired products.
 
 ## 2. Modeling
 
