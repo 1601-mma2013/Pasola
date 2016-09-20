@@ -118,23 +118,22 @@ Existing work and product
 ### d. User observations
 These are the results of our thorough research and observation inside one of Malaysia's biggest shopping mall, the **Sunway Pyramid**. 50 people have participate in the survey.
 
-![alt tag](http://i64.tinypic.com/2qlsnis.jpg)
-
-![alt tag](http://i.imgbox.com/yLO3wG0f.jpg)
-
 1. Potential users
 
    **Shoppers** 
 
-   1. Behaviors
+   ![alt tag](http://i64.tinypic.com/2qlsnis.jpg)
 
-We categorized shoppers into two groups and ask them on which one is their behavior when visiting the shopping mall:
-   - The Lingerer - These shoppers prefer to take their time roaming inside a shopping mall walking through random shops and look for any interesting things to spend their money on.
-   - The Straight Forward - These shoppers are the direct opposite of The Lingerer. They've already planned on what to get even before entering the shopping mall. Once they've arrived at the mall, they straight up search for their desired products.
+   ![alt tag](http://i.imgbox.com/yLO3wG0f.jpg)
+
+   We categorized shoppers into two groups and ask them on which one is their behavior when visiting the shopping mall:
+      - The Lingerer - These shoppers prefer to take their time roaming inside a shopping mall walking through random shops and look for any interesting things to spend their money on.
+      - The Straight Forward - These shoppers are the direct opposite of The Lingerer. They've already planned on what to get even before entering the shopping mall. Once they've arrived at the mall, they straight up search for their desired products.
 
 This is the result:
 
 ![alt tag](http://i65.tinypic.com/2gtb7gz.jpg)
+
 ![alt tag](http://i63.tinypic.com/2pop2m9.jpg)
 
 
