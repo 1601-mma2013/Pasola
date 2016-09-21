@@ -153,10 +153,10 @@ These are the results of our thorough research and observation inside one of Mal
 
 
 
-1. Goals: *Finding directions to a baby changing stations inside D'Pulze (shopping mall)*
-2. Behavior: *Bad sense of direction inside a big shopping mall*
+1. Goals: *To complete a shopping session*
+2. Behavior: *Likes to take her time going through a store*
 3. Attitudes: *Always on time and likes to be punctual*
-4. Environments: *D'Pulze (shopping mall)*
+4. Environments: *The Face Shop (Cosmetic Retail Store in Sunway Pyramid)*
 5. Tools: Smartphone
 6. Challenges: (Can't find a place to change her baby's diaper, Needs to follow signage which are not accurate)
 
