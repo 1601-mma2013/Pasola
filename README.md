@@ -1,9 +1,10 @@
 ## Group Members
+
 - Hazmi Bin Halid 1132702612
 - Mohammad Haziq Shariff Bin Mohamed Haniff 1132702039
 - Mohamad Shafiq Faisal Bin Mohamad Najib 1132701768
 
-# **Odigós** - *Augmented Reality Indoor Navigation & Directory*
+# **Odigós** - *Augmented Reality Shopping Guidance System*
 
 # I. Analysis
 
@@ -12,130 +13,193 @@
 ### a. Scope
 
 1. Objectives
-   - To create a guidance system inside a shopping mall.
-
-
-
-2. Timelines
-
-> *Week 10* 
->
-> - Project proposal
-> - Research and learning on AR and Kinect abilities
-> - Consultation for the analysis
->
-> *Week 11*
->
-> - Sketching user's space and early ideas
-> - Surveying materials
-> - Consultation on progress
->
-> *Week 12*
->
-> - Development on project
-> - Consultation on progress
->
-> *Week 13*
->
-> - Touch up on final project development
-> - Video documentation
->
-> *Week 14*
->
-> - Presentation
-
-### b. Audit
-Existing work and product
-
-1. Field (market) research
-
-   In the past few years, a great amount of interest has been shown to develop indoor navigation systems for the common user. The needs to have a navigation system inside a building is starting to become a thing since buildings are getting bigger and bigger. Some companies use this as a way to market their buildings and some simply just don't want their visitors to get lost inside their buildings.
+   To create a shopping guidance system inside a retail store.
 
    ​
 
-2. Competitors / Alternatives / Replacement
+2. How
+
+   Providing directions to specific products on store shelves inside clients retail store.
+
+   ​
+
+### b. Audit
+1. Field (market) research
+
+   In the past few years, a great amount of interest has been shown to develop indoor navigation systems for the common user because indoor mapping  can help customers find what they need. Retailers are starting to implement such technologies inside their store. The easier that retailers make it for shoppers to find what they’re looking for, the less likely those consumers are to leave a store without making a purchase. According to a national survey commissioned by Aisle411, 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers. Employing a team of sales associates to help customers find what they’re looking for is an expensive (and in many cases ineffective) solution to the problem. Nearly three-quarters of consumers with smartphones (or 73%) say they would rather use their mobile devices in a store than ask an associate for help.
+
+   ​
+
+2. Competitors / alternatives / replacement
+
+   - **WIFARER** - http://www.wifarer.com/
+
+     Pros
+
+     - Support alternative paths.
+     - Including walking time and distance.
+
+     Cons
+
+     - Complex maps layout
 
    - **Indoor Google Maps** - https://www.google.com/maps/about/partners/indoormaps/
 
-     *Pros*
+     Pros
 
      - Excellent search capabilities - Very intuitive!
      - Visually appealing maps.
-     - The service is available free of charge
+     - The service is available free of charge.
 
-     *Cons*
+     Cons
 
-     - No aerial photos
+     - No aerial photos.
 
    - **MazeMap** - https://www.mazemap.com/
 
-     *Pros*
+     Pros
 
-     - Complete search-find-navigate solution for all indoor locations that supports MazeMap
-     - Quick searching with search suggestions
+     - Complete search-find-navigate solution for all indoor locations that supports MazeMap.
+     - Quick searching with search suggestions.
 
-     *Cons*
+     Cons
 
-     - ​No aerial photos
+     - No aerial photos.
 
+   - **Aisle411** - http://aisle411.com/
 
+     Pros
 
-3. Relevant Technologies 
+     - Implements Augmented Reality technology.
+     - Supports a wide variety of indoor positioning technologies, including wi-fi, beacon, magnetic, visible light communication and computer vision.
+     - Has the capabilities to search for products.
 
-   - QR code
-   - GPS-based Geographical Navigation
-   - Wi-Fi Positioning System
-   - Inertial sensors
-   - Monocular camera
+     ​
 
+3. Relevant technologies
 
+   - Using Wi-Fi for client based indoor positioning can be beneficial because in many cases existing infrastructure can be used. This could be for example Wi-Fi enabled cash register systems, routers and client hotspots. It is not even necessary that the devices are connected with the access points to determine their position.
 
+   - Augmented Reality is the integration of digital information with live video or the user's environment in real time. Basically, it takes an existing picture and blends new information into it.
 
+     ​
 
-### c. Stakeholder Interviews (internal / external)
-1. Project vision 
+4. Users
 
-   We intend to provide our users with the best navigation app inside a shopping mall.
+   Clients and Shoppers.
+
+   ​
+
+### c. Stakeholder Interviews
+1. Project vision
+
+   - We intend to provide our clients with the best shopping guidance app for customers to use inside their retail store.
+
+     ​
 
 2. Risk
+   - Inaccurate positioning and navigation.
 
-   - Risk of having multiple bugs within the app
-   - Security breach
+   - Wrong list of products inside clients retail store.
+
+     ​
 
 3. Obstacles
-   - Getting correct information from users so that the app can update the shopping mall's map.
+   - Developing an indoor navigation system can be hard because of it's limited use of technology to detect users location.
+
+   - Relying exclusively on Wi-Fi would mean that a lot of devices are excluded because not all smartphones or tablets support client based positioning via Wi-Fi.
+
+   - Competing with other competitors.
+
+     ​
 
 4. Constraints 
-   - The project requires the use of Wi-Fi positioning system and GPS-based Geographical Navigation to develop **Odigós** and this will also need experience programmers and the cost of it will be expensive.
+   - Viable technologies.
+
+   - Developing Odigós will need experience programmers and the cost of it will be expensive.
+
+     ​
 
 5. Opportunities 
 
-   In spite of the obstacles we have, this project has strength from
+   In spite of the obstacles we have, this project has strength from:
+
+   - Dedicated developers to keep the application up to date and smooth as possible.
 
    - High security to avoid data leak.
-   - Frequent maintenance of the app so that it can be smooth as possible and free from bugs.
+
+     ​
 
 ### d. User observations
-These are the results of our thorough research and observation inside one of Malaysia's biggest shopping mall, the **Sunway Pyramid**. 50 people have participate in the survey.
+1. Users
 
-1. Potential users
+   **Shoppers**
 
-   **Shoppers** 
+   These are the outcomes of our observations as well as the results of the survey that we have conducted inside one of many retail stores in local shopping mall, Sunway Pyramid. 50 people have participate in the survey.
+
+   ​
 
    ![alt tag](http://i64.tinypic.com/2qlsnis.jpg)
 
-   We categorized shoppers into two groups and ask them on which one is their behavior when visiting the shopping mall:
-      - The Lingerer - These shoppers prefer to take their time roaming inside a shopping mall walking through random shops and look for any interesting things to spend their money on.
-      - The Straight Forward - These shoppers are the direct opposite of The Lingerer. They've already planned on what to get even before entering the shopping mall. Once they've arrived at the mall, they straight up search for their desired products.
-
-   This is the result:
-
-   ![alt tag](http://i65.tinypic.com/2gtb7gz.jpg)
+   ​
 
    ![alt tag](http://i63.tinypic.com/2pop2m9.jpg)
 
-   ![alt tag](http://i.imgbox.com/yLO3wG0f.jpg)
+   ​
 
+   ​
+
+2. Behaviors
+
+   Based on our observations, we can categories shoppers into five groups and later did a survey on shoppers to determine their behavior when visiting a retail store:
+
+   - **Touchy** -  Shopper that picks up something and then usually purchases it.
+
+   - **The Lingerer** - Shoppers that like to take their time going through a store.
+
+   - **Guerrilla Shopper** - The opposite of The Lingerer. These shoppers waits until the last minute, especially around the holiday season, and then runs around frantically, trying to get all the shopping done in one shot.
+
+   - **The Sales Junkie** - These people are subjected to a spillover effect. If they see one bargain, they think everything in the store is a bargain, making them apt to spend more money.
+
+   - **The Social Shopper** - This type enjoys shopping with friends and almost never shops alone, they tend to make a lot of impulsive purchases.
+
+     Ref: http://www.marketingteacher.com/consumer-behavior-shopping-habits/
+
+   ​
+
+   ![alt tag](http://i67.tinypic.com/27yzbzd.jpg)
+
+   ​
+
+3. Attitudes
+
+4. Aptitudes
+   - users’s ability to learn something quickly and do it well
+
+5. Motivations
+
+6. Environments
+
+7. Tools
+
+   ​
+
+   ![alt tag](http://i66.tinypic.com/21kfa1d.jpg)
+
+   ​
+
+8. Challenges
+
+   ​
+
+   ![alt tag](http://i64.tinypic.com/hsmixg.jpg)
+
+
+
+
+​	![alt tag](http://i64.tinypic.com/2lnya0z.jpg)
+
+Shoppers agreed that they sometimes had a hard time finding products that they wanted to buy and then  proceed to leave the store without making any purchase. This is the same as the national survey commissioned by Aisle411 where they said that 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers.
 
 ## 2. Modeling
 
