@@ -19,7 +19,8 @@
 
 2. How
 
-   Providing directions to specific products on store shelves inside clients retail store.
+   - Providing directions to all products on store shelves inside clients retail store for shoppers.
+   - Create shopping lists.
 
    ​
 
@@ -41,7 +42,9 @@
 
      Cons
 
-     - Complex maps layout
+     - Complex maps layout.
+
+       ​
 
    - **Indoor Google Maps** - https://www.google.com/maps/about/partners/indoormaps/
 
@@ -55,6 +58,8 @@
 
      - No aerial photos.
 
+       ​
+
    - **MazeMap** - https://www.mazemap.com/
 
      Pros
@@ -65,6 +70,8 @@
      Cons
 
      - No aerial photos.
+
+       ​
 
    - **Aisle411** - http://aisle411.com/
 
@@ -84,11 +91,6 @@
 
      ​
 
-4. Users
-
-   Clients and Shoppers.
-
-   ​
 
 ### c. Stakeholder Interviews
 1. Project vision
@@ -169,18 +171,40 @@
 
    ![alt tag](http://i67.tinypic.com/27yzbzd.jpg)
 
-   ​
+   This shows that majority of shoppers who participated in the survey enjoys taking their time shopping inside a retail stores. 
+
 
 3. Attitudes
 
-4. Aptitudes
-   - users’s ability to learn something quickly and do it well
+   - ​
 
-5. Motivations
+4. Motivations
 
-6. Environments
+   Based on the survey that [Marketing Teacher](http://www.marketingteacher.com/consumer-behavior-shopping-habits/) did. These are the motivation of most shoppers inside a retail store.
 
-7. Tools
+   Six motivation - Based shopping orientations of shoppers
+
+   - Chameleons: Shopping styles are situation specific or constantly changing. Their shopping approach is based on product type, shopping impetus, and purchase task.
+
+   - Collectors/Gathers: Stockpile items and to purchase large quantities to either save money or alleviate the need for shopping. They attempt to get the best price and take advantage of retailer guarantees.
+
+   - Foragers: Motivated to purchase only the desired items. They are willing to search extensively and have little store loyalty. They like to shop alone.
+
+   - Hibernates: Are indifferent toward shopping. There shopping patterns are opportunistic rather than need driven and they will often postpone even required purchases.
+
+   - Predators: Speed oriented in their shopping. They plan before shopping and like to shop alone. They don’t enjoy shopping and tend to shop outlets where they are assured of getting the items they need quickly.
+
+   - Scavengers: Enjoy shopping both to make purchases and as an activity. They like to go to sales and consider shopping to be entertainment. They make numerous unplanned purchases.
+
+     ​
+
+5. Environments
+
+   - Retail stores
+
+   ​
+
+6. Tools
 
    ​
 
@@ -188,7 +212,7 @@
 
    ​
 
-8. Challenges
+7. Challenges
 
    ​
 
@@ -197,49 +221,89 @@
 
 
 
-   ![alt tag](http://i64.tinypic.com/2lnya0z.jpg)
+​	![alt tag](http://i64.tinypic.com/2lnya0z.jpg)
 
-Shoppers agreed that they sometimes had a hard time finding products that they wanted to buy and then  proceed to leave the store without making any purchase. This is the same as the national survey commissioned by Aisle411 where they said that 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers.
-
-## 2. Modeling
-
-### a. Personas
-
-**Name**: Sarah Amanda
-
-**Gender**: Female
-
-**Occupation**: Accountant
-
-**Age**: 28
+Shoppers agreed that they sometimes had a hard time finding products that they wanted to buy and then  proceed to leave the store without making any purchase. This is the same as the national survey commissioned by Aisle411 where they said that 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers. 
 
 ------
 
+1. Users
 
 
-1. Goals: *To complete a shopping session*
-2. Behavior: *Likes to take her time going through a store*
-3. Attitudes: *Always on time and likes to be punctual*
-4. Environments: *The Face Shop (Cosmetic Retail Store in Sunway Pyramid)*
-5. Tools: Smartphone
-6. Challenges: (Can't find a place to change her baby's diaper, Needs to follow signage which are not accurate)
+   **Clients**
 
-*Scene:* Amanda is inside a shopping mall called D'Pulze. After entering the mall, her son kept on crying because of full diaper. She had a very hard time finding a baby changing station. She needs to follow signage at the mall but still failed at finding the spot. Finally after multiple time running back and forth, she found the baby changing station.
+   ​
 
-### b. Other Models
 
-Represent domain factors beyond individual users and customers
 
-1. Workflows among multiple people
-2. environments
-3. artifacts
+
+
+## 2. Modeling
+### a. Personas
+Shoppers
+
+| NAME       | SARAH AMANDA |
+| ---------- | ------------ |
+| GENDER     | FEMALE       |
+| OCCUPATION | TEACHER      |
+| AGE        | 28           |
+| STATUS     | MARRIED      |
+
+Bio: Sarah is a married woman and she has one child, a son. She is 28 years old and works as a teacher at local school. Sarah loves to shop alone without having her husband and son following her. 
+
+1. Goals
+   - To get her shopping done.
+2. Patterns 
+   - She like to take her time going through a store. Same as The Lingerer.
+3. Attitudes
+   - Would rather use her smartphones in a store than ask an associate for help.
+   - She loves to shop alone.
+   - Won't hesitate to buy other alternatives to get her shopping done (finding substitute products)
+4. Environments
+   - Retail store (Cold Storage)
+5. Tools
+   - Smartphones.
+6. Challenges
+   - Finding products on the crowded shelves of the store. 
+
+------
+
+Clients
+
+| NAME       | DAVID TEOH  |
+| ---------- | ----------- |
+| GENDER     | MALE        |
+| OCCUPATION | STORE OWNER |
+| AGE        | 52          |
+| STATUS     | MARRIED     |
+
+Bio: David Teoh is a married man. He owns a retail inside a shopping mall called Cold Storage.
+
+1. Goals
+   - To get more sales
+
+2. Patterns 
+
+   ​
+
+3. Attitudes
+
+   ​
+
+4. Environments
+   - Retail store (Cold Storage)
+
+5. Tools
+   - Computers 
+
+6. Challenges
+   -  ​
+
+
 
 # II. Synthesis
-
-## 3. Requirements Definition
-
+## 1. Requirements Definition
 ### a. Context Scenarios
-
 1. While getting ready in the morning, Sarah open the Odigós app on her smartphone to create a shopping checklist on what things she need to buy later on that day.
 2. After she finished her class, she drove to the Sunway Pyramid shopping mall and after she parked her car and entered the mall, she took out her smartphones and open Odigós to refer back her shopping checklist.
 3. She walked to Cold Storage to buy the things that she created on the shopping checklist. She ticks on the shopping checklist after she grabbed the things that she wants to buy from Cold Storage.
@@ -250,42 +314,45 @@ Represent domain factors beyond individual users and customers
 8. Then she walk out from the store and went back home. Her son is very happy because Sarah managed to buy the product that he requested.
 
 
-### b. Requirements
+- ### b. Requirements
 
-Describe necessary capabilities of the product
+  Describe necessary capabilities of the product (Define requirement)
 
-1. Functional and data needs
-2. user mental models
-3. design imperatives
-4. product vision
-5. business requirements
-6. technology
+  1. Functional and data needs
 
-## 4. Design Framework
+     (user's information, why user need this)
 
+  - user mental models
+  - design imperatives
+  - product vision
+  - business requirements
+  - technology
+
+## 2. Design Framework
 ### a. Elements
-
 Deﬁne manifestations of information and functionality
-
 1. Information
-2. functions
-3. mechanisms
-4. actions
-5. domain object models
+   2. form factor
+   3. posture
+   4. input method
+
+2. functional and data elements
+   - information
+   - functions
+   - mechanisms
+   - actions
+   - domain object models
 
 ### b. Framework
-
 Design overall structure of user experience
 
-1. Object relationships
-2. Conceptual groupings
-3. Navigation sequencing
-4. Principles and patterns
-5. Floor Plan
-   1. flow
-   2. sketches
-   3. storyboards
-
-### c. Key Path and Validation Scenarios
-
-Describe how the persona interacts with the product
+1. Sketch
+   1. if your project is a design product
+      1. Your sketch must be a wireframe.
+   2. if your project is a installation project
+      1. Your sketch must be a installation sketch.
+   3. Must have
+      1. groupings and hierarchy
+      2. Territories of each functional & design elements
+      3. Arrangements of containers & components
+2. Key path Scenario
