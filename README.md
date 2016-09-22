@@ -240,7 +240,15 @@ Represent domain factors beyond individual users and customers
 
 ### a. Context Scenarios
 
-A description on how the product fits into the persona’s life and environment, and how it helps them achieve their goals by telling the narrative about ideal user experiences
+1. While getting ready in the morning, Sarah open the Odigós app on her smartphone to create a shopping checklist on what things she need to buy later on that day.
+2. After she finished her class, she drove to the Sunway Pyramid shopping mall and after she parked her car and entered the mall, she took out her smartphones and open Odigós to refer back her shopping checklist.
+3. She walked to Cold Storage to buy the things that she created on the shopping checklist. She ticks on the shopping checklist after she grabbed the things that she wants to buy from Cold Storage.
+4. After she finished grabbing her things from Cold Storage, Sarah noticed on her phone that her son, Jackie just texted her asking her to buy Gatsby Moving Rubber purple color. She types the product name in the Odigós app search bar to find the product.
+5. After she selected the correct product inside the app, Odigós will start to showing direction towards the product shelf on her smartphone screen by using her smartphone camera.
+6. She walks to the location that has been set by Odigós and when she arrived at the store shelf where the product is stored and picks it up.
+7. After that she double checked her checklist on the Odigós and then proceed to the counter to complete the payment.
+8. Then she walk out from the store and went back home. Her son is very happy because Sarah managed to buy the product that he requested.
+
 
 ### b. Requirements
 
