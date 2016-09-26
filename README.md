@@ -143,8 +143,6 @@
 
    ![alt tag](http://i64.tinypic.com/2qlsnis.jpg)
 
-   ​
-
    ![alt tag](http://i63.tinypic.com/2pop2m9.jpg)
 
    ​
@@ -218,10 +216,7 @@
 
    ![alt tag](http://i64.tinypic.com/hsmixg.jpg)
 
-
-
-
-​	![alt tag](http://i64.tinypic.com/2lnya0z.jpg)
+   ![alt tag](http://i64.tinypic.com/2lnya0z.jpg)
 
 Shoppers agreed that they sometimes had a hard time finding products that they wanted to buy and then  proceed to leave the store without making any purchase. This is the same as the national survey commissioned by Aisle411 where they said that 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers. 
 
