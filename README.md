@@ -316,12 +316,32 @@ Bio: David Teoh is a married man. He owns a retail inside a shopping mall called
   1. Functional and data needs
 
      (user's information, why user need this)
+     
+     - Data requirements :
+     
+      Personas' data needs are the objects and information that must be represented in the
+      system. Using the semantics just described, it is often useful to think of data requirements
+      as the objects and adjectives related to those objects. Common examples include
+      accounts, people, addresses, documents, messages, songs, and images, as well as attributes
+      of those, such as status, dates, size, creator, and subject.
+     Functional requirements :
+     
+      - Functional needs are the operations or actions that need to be performed on the system's
+      objects and that typically are translated into interface controls. These can be thought of
+      as the product's actions. Functional needs also define places or containers where objects
+      or information in the interface must be displayed. (These clearly are not actions in and of
+      themselves but usually are suggested by actions.)
 
   - user mental models
   - design imperatives
   - product vision
-  - business requirements
-  - technology
+  - business requirements / Business requirements can include stakeholder priorities, development timelines,
+    budgetary and resource constraints, regulations and legal considerations, pricing
+    structures, and business models.
+  
+  - Technology
+  - Augemented Reality
+  - WiFi Positioning System
 
 ## 2. Design Framework
 ### a. Elements
