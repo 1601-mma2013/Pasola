@@ -4,7 +4,7 @@
 - Mohammad Haziq Shariff Bin Mohamed Haniff 1132702039
 - Mohamad Shafiq Faisal Bin Mohamad Najib 1132701768
 
-# **Odigós** - *Augmented Reality Shopping Guidance System*
+# **Odigós** - *Augmented Reality Shopping Guidance System*
 
 # I. Analysis
 
@@ -21,13 +21,14 @@
 
    - Providing directions to all products on store shelves inside clients retail store for shoppers.
    - Create shopping lists.
+   - Displaying coupons or product information such as recipes for items that shoppers are currently close to.
 
    ​
 
 ### b. Audit
 1. Field (market) research
 
-   In the past few years, a great amount of interest has been shown to develop indoor navigation systems for the common user because indoor mapping  can help customers find what they need. Retailers are starting to implement such technologies inside their store. The easier that retailers make it for shoppers to find what they’re looking for, the less likely those consumers are to leave a store without making a purchase. According to a national survey commissioned by Aisle411, 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers. Employing a team of sales associates to help customers find what they’re looking for is an expensive (and in many cases ineffective) solution to the problem. Nearly three-quarters of consumers with smartphones (or 73%) say they would rather use their mobile devices in a store than ask an associate for help.
+   In the past few years, a great amount of interest has been shown to develop indoor navigation systems for the common user because indoor mapping  can help customers find what they need. Retailers are starting to implement such technologies inside their store. The easier that retailers make it for shoppers to find what they’re looking for, the less likely those consumers are to leave a store without making a purchase. According to a national survey commissioned by Aisle411, 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers. Employing a team of sales associates to help customers find what they’re looking for is an expensive (and in many cases ineffective) solution to the problem. Nearly three-quarters of consumers with smartphones (or 73%) say they would rather use their mobile devices in a store than ask an associate for help.
 
    ​
 
@@ -87,7 +88,7 @@
 
    - Using Wi-Fi for client based indoor positioning can be beneficial because in many cases existing infrastructure can be used. This could be for example Wi-Fi enabled cash register systems, routers and client hotspots. It is not even necessary that the devices are connected with the access points to determine their position.
 
-   - Augmented Reality is the integration of digital information with live video or the user's environment in real time. Basically, it takes an existing picture and blends new information into it.
+   - Augmented Reality is the integration of digital information with live video or the user's environment in real time. Basically, it takes an existing picture and blends new information into it.
 
      ​
 
@@ -127,13 +128,12 @@
    In spite of the obstacles we have, this project has strength from:
 
    - Dedicated developers to keep the application up to date and smooth as possible.
-
    - High security to avoid data leak.
-
+   - Combines in-door positioning technologies like Wi-Fi & Bluetooth Beacons to provide higher accuracy
      ​
 
 ### d. User observations
-1. Users
+1. User
 
    **Shoppers**
 
@@ -142,8 +142,6 @@
    ​
 
    ![alt tag](http://i64.tinypic.com/2qlsnis.jpg)
-
-   ![alt tag](http://i63.tinypic.com/2pop2m9.jpg)
 
    ​
 
@@ -159,7 +157,7 @@
 
    - **Guerrilla Shopper** - The opposite of The Lingerer. These shoppers waits until the last minute, especially around the holiday season, and then runs around frantically, trying to get all the shopping done in one shot.
 
-   - **The Sales Junkie** - These people are subjected to a spillover effect. If they see one bargain, they think everything in the store is a bargain, making them apt to spend more money.
+   - **The Sales Junkie** - These people are subjected to a spillover effect. If they see one bargain, they think everything in the store is a bargain, making them apt to spend more money.
 
    - **The Social Shopper** - This type enjoys shopping with friends and almost never shops alone, they tend to make a lot of impulsive purchases.
 
@@ -171,10 +169,16 @@
 
    This shows that majority of shoppers who participated in the survey enjoys taking their time shopping inside a retail stores. 
 
+   ​
+
 
 3. Attitudes
 
-   - ​
+   ​
+
+   ![alt tag](http://i63.tinypic.com/2pop2m9.jpg)
+
+   ​
 
 4. Motivations
 
@@ -182,9 +186,9 @@
 
    Six motivation - Based shopping orientations of shoppers
 
-   - Chameleons: Shopping styles are situation specific or constantly changing. Their shopping approach is based on product type, shopping impetus, and purchase task.
+   - Chameleons: Shopping styles are situation specific or constantly changing. Their shopping approach is based on product type, shopping impetus, and purchase task.
 
-   - Collectors/Gathers: Stockpile items and to purchase large quantities to either save money or alleviate the need for shopping. They attempt to get the best price and take advantage of retailer guarantees.
+   - Collectors/Gathers: Stockpile items and to purchase large quantities to either save money or alleviate the need for shopping. They attempt to get the best price and take advantage of retailer guarantees.
 
    - Foragers: Motivated to purchase only the desired items. They are willing to search extensively and have little store loyalty. They like to shop alone.
 
@@ -200,6 +204,8 @@
 
    - Retail stores
 
+     ![alt tag](http://i64.tinypic.com/rv8w75.jpg)
+
    ​
 
 6. Tools
@@ -207,7 +213,7 @@
    ​
 
    ![alt tag](http://i66.tinypic.com/21kfa1d.jpg)
-   
+
    ​
 
 7. Challenges
@@ -216,20 +222,12 @@
 
    ![alt tag](http://i64.tinypic.com/hsmixg.jpg)
 
-   ![alt tag](http://i64.tinypic.com/2lnya0z.jpg)
-
-Shoppers agreed that they sometimes had a hard time finding products that they wanted to buy and then  proceed to leave the store without making any purchase. This is the same as the national survey commissioned by Aisle411 where they said that 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers. 
-
-------
-
-1. Users
 
 
-   **Clients**
 
-   ​
+​	![alt tag](http://i64.tinypic.com/2lnya0z.jpg)
 
-
+Shoppers agreed that they sometimes had a hard time finding products that they wanted to buy and then  proceed to leave the store without making any purchase. This is the same as the national survey commissioned by Aisle411 where they said that 20% of shoppers have departed a store without fulfilling their purchase intent, and 84% have had difficulty finding products on the crowded shelves of retailers. 
 
 
 
@@ -244,55 +242,29 @@ Shoppers
 | AGE        | 28           |
 | STATUS     | MARRIED      |
 
-Bio: Sarah is a married woman and she has one child, a son. She is 28 years old and works as a teacher at local school. Sarah loves to shop alone without having her husband and son following her. 
+Bio: Sarah is a married woman and she has one child, a son. She is 28 years old and works as a teacher at a local school. Sarah loves to shop alone without having her husband and son following her. She is good with her smartphone and is very reliable to it. She does not like to ask people for direction.
+
+​	Sarah loves to shop inside a retail store and like most typical shopper, she went to retail store to buy her groceries. She likes to shop alone and does not hesitate to get a replacement product if she can't find one in the retail store.
 
 1. Goals
    - To get her shopping done.
 2. Patterns 
-   - She like to take her time going through a store. Same as The Lingerer.
+   - She like to take her time going through a store. 
 3. Attitudes
-   - Would rather use her smartphones in a store than ask an associate for help.
+   - Would rather use her smartphones in a store than ask an associate for help.
    - She loves to shop alone.
    - Won't hesitate to buy other alternatives to get her shopping done (finding substitute products)
-4. Environments
+   - Likes to try new things.
+4. Aptitude
+   - She's very good with her smartphones and can figure out how most app works without reading any manuals
+   - A very fast learner
+5. Environments
    - Retail store (Cold Storage)
-5. Tools
+6. Tools
    - Smartphones.
-6. Challenges
+7. Challenges
    - Finding products on the crowded shelves of the store. 
 
-------
-
-Clients
-
-| NAME       | DAVID TEOH  |
-| ---------- | ----------- |
-| GENDER     | MALE        |
-| OCCUPATION | STORE OWNER |
-| AGE        | 52          |
-| STATUS     | MARRIED     |
-
-Bio: David Teoh is a married man. He owns a retail inside a shopping mall called Cold Storage.
-
-1. Goals
-   - To get more sales
-
-2. Patterns 
-
-   ​
-
-3. Attitudes
-
-   ​
-
-4. Environments
-   - Retail store (Cold Storage)
-
-5. Tools
-   - Computers 
-
-6. Challenges
-   -  ​
 
 
 
@@ -304,70 +276,87 @@ Bio: David Teoh is a married man. He owns a retail inside a shopping mall called
 3. She walked to Cold Storage to buy the things that she created on the shopping checklist. She ticks on the shopping checklist after she grabbed the things that she wants to buy from Cold Storage.
 4. After she finished grabbing her things from Cold Storage, Sarah noticed on her phone that her son, Jackie just texted her asking her to buy Gatsby Moving Rubber purple color. She types the product name in the Odigós app search bar to find the product.
 5. After she selected the correct product inside the app, Odigós will start to showing direction towards the product shelf on her smartphone screen by using her smartphone camera.
-6. She walks to the location that has been set by Odigós and when she arrived at the store shelf where the product is stored and picks it up.
+6. She walks to the location that has been set by Odigós and when she arrived at the store shelf where the product is stored and the app notify on her screen that the product is on sale, she quickly picks it up.
 7. After that she double checked her checklist on the Odigós and then proceed to the counter to complete the payment.
 8. Then she walk out from the store and went back home. Her son is very happy because Sarah managed to buy the product that he requested.
 
 
 - ### b. Requirements
 
-  Describe necessary capabilities of the product (Define requirement)
-
   1. Functional and data needs
 
-     (user's information, why user need this)
-     
-     - Data requirements :
-     
-      Personas' data needs are the objects and information that must be represented in the
-      system. Using the semantics just described, it is often useful to think of data requirements
-      as the objects and adjectives related to those objects. Common examples include
-      accounts, people, addresses, documents, messages, songs, and images, as well as attributes
-      of those, such as status, dates, size, creator, and subject.
-     Functional requirements :
-     
-      - Functional needs are the operations or actions that need to be performed on the system's
-      objects and that typically are translated into interface controls. These can be thought of
-      as the product's actions. Functional needs also define places or containers where objects
-      or information in the interface must be displayed. (These clearly are not actions in and of
-      themselves but usually are suggested by actions.)
 
-  - user mental models
-  - design imperatives
-  - product vision
-  - business requirements / Business requirements can include stakeholder priorities, development timelines,
-    budgetary and resource constraints, regulations and legal considerations, pricing
-    structures, and business models.
-  
-  - Technology
-  - Augemented Reality
-  - WiFi Positioning System
+- User Mental Models
+    - Shoppers can download and install the Odigós application inside their smartphones
+- Design Imperatives
+    - Odigós provide directions to all products on store shelves inside clients retail store for shoppers.
+    - Odigós can allow shoppers to create a shopping lists.
+    - Odigós displays coupons or product information such as recipes for items that shoppers are currently close to.
+- Product Vision
+    - To see users using our application as a shopping guidance system each time they go shopping
+- Technology
+    - Using Wi-Fi for client based indoor positioning can be beneficial because in many cases existing infrastructure can be used. This could be for example Wi-Fi enabled cash register systems, routers and client hotspots. It is not even necessary that the devices are connected with the access points to determine their position.
+    - Augmented Reality is the integration of digital information with live video or the user's environment in real time. Basically, it takes an existing picture and blends new information into it.
 
 ## 2. Design Framework
 ### a. Elements
-Deﬁne manifestations of information and functionality
 1. Information
-   2. form factor
-   3. posture
-   4. input method
+
+   - Form factor
+
+     > Odigós is a mobile application.
+
+   - Posture
+
+     > Hands, palm and eyes
+
+   - Input method
+
+     > It uses the smartphone camera, touch screen, Wi-Fi and mobile data.
 
 2. functional and data elements
-   - information
-   - functions
-   - mechanisms
-   - actions
-   - domain object models
+   - Functions
+
+     > Users can create shopping list, search for available products, navigate to specific product, check for discounts and offers.
+
+   - Mechanisms
+
+     > Users can connect to Odigós and use all the functions provided to guide their shopping.
+
+   - Actions
+
+     > Users can navigate inside one main screen.
+
+   - Domain object models
+
+     > Odigós is only for shoppers to use inside a retail store supported by Odigós by providing the latest information. Users can create shopping list, search for available products, navigate to specific product, check for discounts and offers.
 
 ### b. Framework
 Design overall structure of user experience
 
 1. Sketch
-   1. if your project is a design product
-      1. Your sketch must be a wireframe.
-   2. if your project is a installation project
-      1. Your sketch must be a installation sketch.
-   3. Must have
-      1. groupings and hierarchy
-      2. Territories of each functional & design elements
-      3. Arrangements of containers & components
-2. Key path Scenario
+
+![alt tag](http://i66.tinypic.com/32zj0jd.jpg)
+
+
+
+2. Groupings and Hierarchy
+
+
+
+![alt tag](http://i65.tinypic.com/2eq88zn.png)
+
+
+
+
+
+1. Key path Scenario
+
+    1. Sarah launch Odigós app on her smartphone (Apple iPhone). She create shopping list by choosing 'Create Shopping List' from the home screen.
+    2. Sarah does not know where to buy her son stuff and she type on Search Bar on what item she needs to buy.
+    3. Susan tap on the retail store that selling the item that she need to buy. 
+    4. Susah tap on the indoor map to shows the live view of the map to give her direction towards the item.
+    5. After Susan found the items and she hover her camera on the product Odigós will notify her that she is succesfully found the item.
+
+
+   ​
